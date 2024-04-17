@@ -1,0 +1,44 @@
+Task 1 : create a div an whenever the mouse hover on it we find the position of our mouse ✅
+
+Task 2 : Mouse can move as many times it want but function will not execute on same number of times (Throtling)  ✅
+Task 3 : Har bar throttling pr 1 div bnao  ✅
+Task 4 : Make div position absolute ✅
+Task 5 : Overflow Hidden of div ✅
+Task 6 : There place an image in div ✅
+Task 7 : Style image div ✅
+Task 7 : Style image of imageDiv ✅
+Task 8 : Make the image up in an animated way  🚫 from down to up while creating and up to down while removing 
+
+
+Do before uploading
+1. Use Unsplash for images
+2. Make your code clean
+3. Optimize it as much as you can 
+4. Remove the red color 
+5. Remove border 
+6. Use Text 
+7. Add border to the div
+8. Use it in your project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This concept is known as   Throttling (To reduce the number of execution of function)
+Process of throttling is very important
